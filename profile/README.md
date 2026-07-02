@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://clipin.ai">
-    <img src="./assets/clipin-official-logo.png" alt="Clipin AI logo" width="112" />
+    <img src="https://raw.githubusercontent.com/Clipinai/.github/main/profile/assets/clipin-official-logo.png" alt="Clipin AI logo" width="112" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://clipin.ai">
-    <img src="./assets/clipin-official-og-image.png" alt="Clipin AI video generator workspace" width="900" />
+    <img src="https://raw.githubusercontent.com/Clipinai/.github/main/profile/assets/clipin-official-og-image.png" alt="Clipin AI video generator workspace" width="900" />
   </a>
 </p>
 
