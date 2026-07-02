@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://clipin.ai">
-    <img src="./assets/clipin-logo.png" alt="Clipin AI logo" width="112" />
+    <img src="./assets/clipin-official-logo.png" alt="Clipin AI logo" width="112" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://clipin.ai">
-    <img src="./assets/clipin-screenshot.png" alt="Clipin AI video generator workspace" width="900" />
+    <img src="./assets/clipin-official-og-image.png" alt="Clipin AI video generator workspace" width="900" />
   </a>
 </p>
 
@@ -82,4 +82,3 @@ Clipin is built for content creators, social media managers, indie makers, SaaS 
 - Pricing: [https://clipin.ai/pricing](https://clipin.ai/pricing)
 - Blog: [https://clipin.ai/blog](https://clipin.ai/blog)
 - Support: [support@clipin.ai](mailto:support@clipin.ai)
-
